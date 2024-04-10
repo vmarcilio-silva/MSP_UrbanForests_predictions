@@ -1,4 +1,7 @@
 # Predictions of urban forests diversity and structure for the Minneapolis - St. Paul metropolitan region 
-About the map
+**Link to the interactive map:** <https://vmarcilio-silva.github.io/MSP_UrbanForests_predictions/>
+
+**About the map**
+
 We used machine learning ensemble models to integrate data from forest inventories (40 12.5-meter radius plots; Marcilio-Silva et al. 2022 <https://doi.org/10.6073/pasta/166a4b954ecaaabcda75bd51004804a5>), GEDI observations, and Sentinel-2 derived land surface phenology (described in Marcilio-Silva et al. in review). These models enabled accurate predictions of the nine forest attributes presented here: plant diversity (tree species richness, tree abundance, and understory plant abundance), structure (average canopy height, diameter at breast height (DBH), and canopy density), and structural complexity (variability in canopy height, DBH, and canopy density) with relative errors ranging between 11% to 21%. Each point in this map shows the predicted forest attributes based on our models.
 
